@@ -1,0 +1,4 @@
+If you pick Heads and the computer also picks Heads. You Win
+If you pick Heads and the computer also picks Tails. You Lose
+If you pick Tails and the computer also picks Tails. You Win
+If you pick Tails and the computer also picks Heads. You Lose
